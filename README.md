@@ -7,12 +7,19 @@ This project analyzes how trading behavior (profitability, volume, risk, leverag
 We use EDA, clustering (KMeans), correlation, and regression (including lagged sentiment) to uncover trading patterns.
 
 ## Repository Structure
+
 ds_candidate_name/
+
 ├── notebook_1.ipynb # Full analysis (EDA, clustering, regression)
+
 ├── notebook_2.ipynb # (Optional) Additional exploration
+
 ├── csv_files/ # Processed data and outputs
+
 ├── outputs/ # Plots, charts, cluster visuals
+
 ├── ds_report.pdf # Final insights report
+
 └── README.md # Setup instructions and overview
 
 ## Key Insights
