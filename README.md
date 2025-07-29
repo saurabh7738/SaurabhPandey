@@ -8,7 +8,7 @@ We use EDA, clustering (KMeans), correlation, and regression (including lagged s
 
 ## Repository Structure
 
-ds_candidate_name/
+ds_Saurabh_pandey/
 
 ├── notebook_1.ipynb # Full analysis (EDA, clustering, regression)
 
