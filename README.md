@@ -31,3 +31,11 @@ ds_Saurabh_pandey/
 ## Usage
 1. Open `notebook_1.ipynb` in Google Colab.
 2. Upload raw data CSVs when prompted.
+
+# Dataset Links
+1. Historical Trader Data:
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+2. Fear & Greed Index:
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+Also available in Repo in CSV-files folder
